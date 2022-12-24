@@ -62,3 +62,18 @@ h1 {
   text-transform: uppercase;
   font-weight: 700;
 }
+
+
+.plan__light {
+  background: linear-gradient(-45deg, #c0c0c0, #FFF);
+  color:#4E4E4E;
+}
+
+.light__price {
+  color: #00CDAC;
+}
+
+.light__button {
+  background: #4E4E4E;
+  color: #fff;
+}

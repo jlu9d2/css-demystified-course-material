@@ -82,3 +82,16 @@ h1 {
   color: white;
   background: #4e4e4e;
 }
+
+.plan__price--light {
+  color: #00a1ab;
+}
+
+.cta-btn {
+  background:#00a1ab;
+  color: white;
+}
+
+.bottom--fs-500 {
+  margin-top: 2em;
+}
