@@ -18,9 +18,8 @@ p {
 }
 
 /* Utility classes */
-.flow-content > * + * {
-  margin-top: 1rem;
-}
+
+
 
 /* general styling */
 
@@ -48,4 +47,17 @@ h1 {
   padding: 3rem 2rem;
   margin: 0 auto;
   text-align: center;
+}
+
+p {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.btn {
+  color: #171717;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #59E89C;
+  padding: .5em 1em;
 }
