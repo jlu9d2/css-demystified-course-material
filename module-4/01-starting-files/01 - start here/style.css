@@ -275,7 +275,7 @@ section {
 
 .article-preview h3 {
   font-size: var(--fs-500);
-}
+} 
 
 .article-preview img {
   object-fit: cover;
